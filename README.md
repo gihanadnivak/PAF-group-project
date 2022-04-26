@@ -1,6 +1,6 @@
 # PAF-group-project
-"Electro Grid Electricity" Management System
+"Electro Grid Electricity" Management System /
 Function- Payment Managment
 
 
-#All the diagrams and screenshots of CRUD Operations & Database are also included in here.
+#All the Diagrams and screenshots of CRUD Operations & Database (Included in img folder) are also included in here.
